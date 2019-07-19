@@ -1,32 +1,19 @@
 ---
-title: About me
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
-description: Personal is the perfect theme for developers, designers and other creatives.
+title: About Chai Time Data Science
+subtitle: A show for all things data science
+description: A show for all things data science
 featured_image: /images/demo/about.jpg
 ---
 
-## Features
+## What is Chai Time Data Science?
 
-We've packed Personal full of powerful features to help showcase your work:
+Chai Time Data Science is a show by [Sanyam Bhutani](https://twitter.com/bhutanisanyam1)
 
-* Beautiful, minimal design
-* Large header image and single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+Chai Time Data Science will be available across all of your favourite podcasting platforms, YouTube where the videos for the interviews will be released as well as in the form of blogposts. This is also a "re-start" or continutation of the "Interview with Machine Learning Heroes Series" by [Sanyam](https://twitter.com/bhutanisanyam1)
 
-## Get Personal
+## Release Schedule: 
 
-Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $39.
+A new episode will be released every **Sunday** and **Tuesday** with the first episode releasing on 21st July, 2019.
 
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
+
+
